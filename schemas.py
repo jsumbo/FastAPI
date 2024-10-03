@@ -7,4 +7,4 @@ class WeatherResponse(BaseModel):
     humidity: int
 
 class CityRequest(BaseModel):
-    city: str
+    city: str 
